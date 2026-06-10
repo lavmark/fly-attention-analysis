@@ -6,9 +6,10 @@ auditory cues; their turning/orienting responses are quantified per trial, model
 **latent state-space (HMM) methods**, and grouped with **unsupervised hierarchical clustering** to
 identify attention-related response states.
 
-> Rotation project, Clandinin Lab (Stanford). Notebooks were developed in Google Colab; data lives
-> on Google Drive and is not included here, so the cells are meant to be **read** as a code/analysis
-> sample (saved cell outputs show representative figures inline).
+> Rotation project, Clandinin Lab (Stanford). Code written with **Alex Hao**. Notebooks were
+> developed in Google Colab; data lives on Google Drive and is not included here, so the cells are
+> meant to be **read** as a code/analysis sample (saved cell outputs show representative figures
+> inline).
 
 ## Notebooks
 
